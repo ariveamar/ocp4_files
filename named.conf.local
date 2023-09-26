@@ -1,4 +1,4 @@
-zone "example." {
+zone "basedomain." {
     type master;
     file "/etc/named/zones/db.record";
 };
